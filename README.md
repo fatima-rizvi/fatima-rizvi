@@ -11,10 +11,11 @@ Welcome to my Github page! My name is Fatima, and I am nearly finished completin
 
 
 #### 🌱 Things I am currently working on: 
-- Etching glass!  
-- Learning and teaching python, algorithms, and data structures 
+- Working with a team to develop a website to connect potential microentrepreneurs with mircoentrepreneur programs
 - Creating a website about notable woman in STEM, feel free to contact me with suggestions!
+- Learning and teaching python, algorithms, and data structures 
 - Reading [Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) by Robert B. Cialdini
+- Etching glass!
 
 #### :computer: Programming languages and tools: 
 <p>
