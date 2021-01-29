@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fatima-rizvi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-rizvi/)
 
-Welcome to my Github page! My name is Fatima, and I am currently completing the Full Stack Web Development track at Lambda School!  
+Welcome to my Github page! My name is Fatima, and I am nearly finished completing the Full Stack Web Development track at Lambda School!  
 
 <img align="right" alt="img" src="FATIMA.png" width="50%" height="auto" />
 
