@@ -11,9 +11,8 @@ Welcome to my Github page! My name is Fatima, and I recently completed the Full 
 
 
 #### 🌱 Things I am currently working on: 
-- Working with a team to develop a website to connect potential microentrepreneurs with mircoentrepreneur programs
+- Learning and [teaching](https://youtu.be/bF2pk75pY-U)  Python, algorithms, and data structures
 - Creating a website about notable woman in STEM, feel free to contact me with suggestions!
-- Learning and teaching Python, algorithms, and data structures 
 - Reading [Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) by Robert B. Cialdini
 - Etching glass!
 
