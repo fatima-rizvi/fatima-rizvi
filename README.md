@@ -11,7 +11,7 @@ Welcome to my Github page! My name is Fatima
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=fatima-rizvi&show_icons=true&hide_border=true" />
+<!-- 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=fatima-rizvi&show_icons=true&hide_border=true" /> -->
 
 <h3>🛠 Tech Stack</h3>
 
